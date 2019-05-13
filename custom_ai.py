@@ -17,7 +17,6 @@ import ai_knowledge as data
 import ai_control as control
 import ai_parser as parser
 import time
-import navigator
 
 
 # Manager Script
